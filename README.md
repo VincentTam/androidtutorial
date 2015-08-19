@@ -1,5 +1,5 @@
 # androidtutorial
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][MIT]
 
 Automatically exported from https://code.google.com/p/androidtutorial
 
